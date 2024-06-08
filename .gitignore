@@ -24,3 +24,9 @@ go.sum
 
 # ENV
 *.env
+
+# Logs and test results
+*.log
+
+# macOS specific files
+.DS_Store
