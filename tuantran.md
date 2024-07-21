@@ -1,0 +1,1 @@
+Hello anh Tips va tat ca moi nguoi. Em la Tuan Tran, mot sinh vien nganh Khoa hoc du lieu. Em rat thich lap trinh va muon tro thanh mot lap trinh vien gioi. Em rat vui khi duoc hoc cung voi moi nguoi. Chuc moi nguoi hoc tot nhe!
